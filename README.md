@@ -24,9 +24,14 @@
   
      
     <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
-     
-  
+ 
+ <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valeriadiniz&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
+ </p>
+ 
 </p>
+
+
 
 <!--
 **valeriadiniz/valeriadiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
