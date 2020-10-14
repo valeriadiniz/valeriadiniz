@@ -20,6 +20,10 @@
   
      
     <p align="center"><a href="./README.md">In English ➤</a></p>
+    
+ <p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valeriadiniz&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
+ </p>
      
   
   </p>
