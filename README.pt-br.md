@@ -10,7 +10,7 @@
   <br>
   
   ### Sobre Mim
-  Eu sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Ourinhos.
+  Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos.
   
   Eu sou programadora iniciante e entusiasta de tecnologia. Sou Brasileira e atualmente tenho 22 anos de idade. 
   
