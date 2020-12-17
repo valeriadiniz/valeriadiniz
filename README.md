@@ -12,7 +12,7 @@
   <br>
   
   ## About me
-  I'm a analysis and development of systems student in FATEC Ourinhos. 
+  I'm analyst and developer of systems formed by FATEC Ourinhos. 
   
   I am a beginner developer and a technology enthusiast. I'm currently 22 years old, I'm Brazilian. 
   
