@@ -12,9 +12,9 @@
   <br>
   
   ## About me
-  I'm analyst and developer of systems formed by FATEC Ourinhos. 
+  I'm analyst and developer of systems formed by FATEC Ourinhos, currently studying Post-Graduation in Industrial Process Automation and Robotics.
   
-  I am a beginner developer and a technology enthusiast. I'm currently 22 years old, I'm Brazilian. 
+  I am a beginner developer and a technology enthusiast. I'm currently 23 years old, I'm Brazilian. 
   
   
   
