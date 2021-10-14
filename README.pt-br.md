@@ -17,7 +17,7 @@
   - [certificados obtidos](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx?usp=sharing) 
   - [credencial](https://www.youracclaim.com/badges/583a94ec-3e59-4ab1-9777-10a578a48659/public_url) 
   
-  - 📫 Como me encontrar -> valeria.diniz@fatec.sp.gov.br
+  - 📫 Como me encontrar -> valeriasdiniz98@outlook.com
   
      
     <p align="center"><a href="./README.md">Em inglês ➤</a></p>
