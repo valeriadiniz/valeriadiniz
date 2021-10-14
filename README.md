@@ -20,7 +20,7 @@
   
   - [certificates obtained](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx?usp=sharing) 
   - [credential badge](https://www.youracclaim.com/badges/583a94ec-3e59-4ab1-9777-10a578a48659/public_url) 
-  - 📫 How to reach me: e-mail -> valeria.diniz@fatec.sp.gov.br
+  - 📫 How to reach me: e-mail -> valeriasdiniz98@outlook.com
   
      
     <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
