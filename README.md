@@ -12,14 +12,14 @@
   <br>
   
   ## About me
-  I'm analyst and developer of systems formed by FATEC Ourinhos, currently studying Post-Graduation in Industrial Process Automation and Robotics.
+  I am a systems analyst and developer graduated from FATEC Ourinhos, Postgraduate in Industrial Process Automation and Robotics.
   
-  I am a beginner developer and a technology enthusiast. I'm currently 23 years old, I'm Brazilian. 
+  I am a beginner developer and a technology enthusiast. I'm currently 24 years old, I'm Brazilian. 
   
   
   
-  - [certificates obtained](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx?usp=sharing) 
-  - [credential badge](https://www.youracclaim.com/badges/583a94ec-3e59-4ab1-9777-10a578a48659/public_url) 
+  - [certificates obtained](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx) 
+  - [credential badge](https://www.credly.com/users/valeria-diniz/badges) 
   - 📫 How to reach me: e-mail -> valeriasdiniz98@outlook.com
   
      
