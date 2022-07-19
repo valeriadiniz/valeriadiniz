@@ -10,12 +10,12 @@
   <br>
   
   ### Sobre Mim
-  Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos, atualmente cursando Pós-Graduação em Automação de Processos Industriais e Robótica.
+  Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos, Pós-Graduada em Automação de Processos Industriais e Robótica.
   
-  Eu sou programadora iniciante e entusiasta de tecnologia. Sou Brasileira e atualmente tenho 23 anos de idade. 
+  Eu sou programadora iniciante e entusiasta de tecnologia. Sou Brasileira e atualmente tenho 24 anos de idade. 
   
-  - [certificados obtidos](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx?usp=sharing) 
-  - [credencial](https://www.youracclaim.com/badges/583a94ec-3e59-4ab1-9777-10a578a48659/public_url) 
+  - [certificados obtidos](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx) 
+  - [credencial](https://www.credly.com/users/valeria-diniz/badges) 
   
   - 📫 Como me encontrar -> valeriasdiniz98@outlook.com
   
