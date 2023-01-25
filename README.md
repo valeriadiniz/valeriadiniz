@@ -22,7 +22,7 @@
   - 📫 Como me encontrar -> valeriasdiniz98@outlook.com
   
      
-    <p align="center"><a href="./README.pt-br.md">Em inglês ➤</a></p>
+    <p align="center"><a href="./README.pt-br.md">In english ➤</a></p>
   
      
   
