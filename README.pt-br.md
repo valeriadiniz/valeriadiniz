@@ -15,7 +15,7 @@
   ## About me
   I'm a systems analyst and developer graduated from FATEC Ourinhos, Postgraduate in Industrial Process Automation and Robotics.
   
-  I'm a beginner developer and a technology enthusiast, currently studying Technology Management at Fatec de Assis. 
+  I'm a beginner developer and a technology enthusiast, currently studying Technology Management at Fatec Assis. 
   
   24 years old, I'm Brazilian. 
   
@@ -26,7 +26,7 @@
   - 📫 How to reach me: e-mail -> valeriasdiniz98@outlook.com
   
      
-    <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
+    <p align="center"><a href="./README.md">In Portuguese ➤</a></p>
     
  
  
