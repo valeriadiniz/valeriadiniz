@@ -12,9 +12,11 @@
   <br>
   
   ## About me
-  I am a systems analyst and developer graduated from FATEC Ourinhos, Postgraduate in Industrial Process Automation and Robotics.
+  I'm a systems analyst and developer graduated from FATEC Ourinhos, Postgraduate in Industrial Process Automation and Robotics.
   
-  I am a beginner developer and a technology enthusiast. I'm currently 24 years old, I'm Brazilian. 
+  I'm a beginner developer and a technology enthusiast, currently studying Technology Management at Fatec de Assis. 
+  
+  24 years old, I'm Brazilian. 
   
   
   
@@ -26,9 +28,7 @@
     <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
     
  
- <p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=valeriadiniz&show_icons=true&title_color=94fcff&icon_color=79ff97&text_color=fe9fe6&bg_color=151515" />
- </p>
+ 
  
 </p>
 
