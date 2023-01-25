@@ -7,7 +7,7 @@
   # Hi, I'm Valéria Diniz! :D
   
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/valeriadiniz)](https://github.com/valeriadiniz)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/val%C3%A9ria-diniz-3a24741a4/)](https://www.linkedin.com/in/val%C3%A9ria-diniz-3a24741a4/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/val%C3%A9ria-diniz-3a24741a4/)](https://www.linkedin.com/in/val%C3%A9ria-d-3a24741a4/?profileId=ACoAAC_ERCoB_3TNS7P9E07e6BzOYuR1B1gZtTc) 
   
   <br>
   
