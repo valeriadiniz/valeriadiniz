@@ -9,7 +9,7 @@
   
   <br>
   
-  ### Sobre Mim
+  ### Sobre mim
   Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos-SP, Pós-Graduada em Automação de Processos Industriais e Robótica.
   
   Eu sou programadora iniciante e entusiasta de tecnologia, atualmente cursando Gestão de Tecnologia na FATEC de Assis-SP. 
