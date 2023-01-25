@@ -10,9 +10,9 @@
   <br>
   
   ### Sobre Mim
-  Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos, Pós-Graduada em Automação de Processos Industriais e Robótica.
+  Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos-SP, Pós-Graduada em Automação de Processos Industriais e Robótica.
   
-  Eu sou programadora iniciante e entusiasta de tecnologia, atualmente cursando Gestão de Tecnologia. 
+  Eu sou programadora iniciante e entusiasta de tecnologia, atualmente cursando Gestão de Tecnologia na FATEC de Assis-SP. 
   
   Sou Brasileira, tenho 24 anos de idade. 
   
