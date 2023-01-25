@@ -26,7 +26,7 @@
   - 📫 How to reach me: e-mail -> valeriasdiniz98@outlook.com
   
      
-    <p align="center"><a href="./README.md">In Portuguese ➤</a></p>
+    <p align="center"><a href="./README.md">Em Português ➤</a></p>
     
  
  
