@@ -15,9 +15,9 @@
   ## About me
   I'm a systems analyst and developer graduated from FATEC Ourinhos, Postgraduate in Industrial Process Automation and Robotics.
   
-  I'm a beginner developer and a technology enthusiast, currently studying Technology Management at Fatec Assis. 
+  I'm a beginner developer and a technology enthusiast.
   
-  24 years old, I'm Brazilian. 
+  26 years old, I'm Brazilian. 
   
   
   
