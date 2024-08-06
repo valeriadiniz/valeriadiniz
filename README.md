@@ -12,9 +12,9 @@
   ### Sobre mim
   Sou analista e desenvolvedora de sistemas formada pela FATEC Ourinhos-SP, Pós-Graduada em Automação de Processos Industriais e Robótica.
   
-  Eu sou programadora iniciante e entusiasta de tecnologia, atualmente cursando Gestão de Tecnologia na FATEC de Assis-SP. 
+  Eu sou programadora iniciante e entusiasta de tecnologia.
   
-  Sou Brasileira, tenho 24 anos de idade. 
+  Sou Brasileira, tenho 26 anos de idade. 
   
   - [certificados obtidos](https://drive.google.com/drive/folders/1aaLcMPEGfS-cl6MgauJlntreBsLSG1Nx) 
   - [credencial](https://www.credly.com/users/valeria-diniz/badges) 
